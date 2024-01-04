@@ -29,7 +29,7 @@ module.exports = [
     { "name": "Chechen", "local": "Нохчийн", "1": "ce", "2": "che", "2T": "che", "2B": "che", "3": "che" },
     { "name": "Chichewa", "local": "Chichewa", "1": "ny", "2": "nya", "2T": "nya", "2B": "nya", "3": "nya" },
     { "name": "Chinese", "local": "中文", "1": "zh", "2": "zho", "2T": "zho", "2B": "chi", "3": "zho" },
-    { "name": "Mandarin Chinese", "local": "普通话", "1": "zh", "2": "zho", "2T": "zho", "2B": "chi", "3": "cnm" },
+    { "name": "Mandarin Chinese", "local": "普通话", "1": "zh", "2": "zho", "2T": "zho", "2B": "chi", "3": "cmn" },
     { "name": "Chuvash", "local": "Чӑвашла", "1": "cv", "2": "chv", "2T": "chv", "2B": "chv", "3": "chv" },
     { "name": "Cornish", "local": "Kernewek", "1": "kw", "2": "cor", "2T": "cor", "2B": "cor", "3": "cor" },
     { "name": "Corsican", "local": "Corsu", "1": "co", "2": "cos", "2T": "cos", "2B": "cos", "3": "cos" },
